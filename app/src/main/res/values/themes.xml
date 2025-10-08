@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TickTackToe_SusanaPineros" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personaliza tu tema claro aquí -->
+        <item name="android:statusBarColor">#000000</item> <!-- Negro -->
+        <item name="android:windowLightStatusBar">false</item> <!-- Íconos blancos -->
+        <item name="colorControlActivated">@color/black</item> <!-- Color de la línea activa -->
+        <item name="colorControlNormal">@color/black</item> <!-- Color de la línea inactiva -->
+        <item name="colorControlHighlight">@color/black</item> <!-- Color del efecto al pulsar -->
+        <item name="android:textCursorDrawable">@null</item> <!-- Usa el color por defecto del texto -->
+
+    </style>
+
+    <style name="Theme.TickTackToe_SusanaPineros" parent="Base.Theme.TickTackToe_SusanaPineros" />
+</resources>
