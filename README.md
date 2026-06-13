@@ -24,8 +24,8 @@ Finalizado. Proyecto educativo completado con toda la lógica matemática del ju
 <br><br><br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4dc84e4-103b-4ab2-886e-8cd17dec2538" width="250" alt="Pantalla de inicio" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://github.com/user-attachments/assets/4bac3497-d7f6-46b0-ae44-b2d839bee9db" width="250" alt="Tablero de juego" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://github.com/user-attachments/assets/c8ab8619-880f-4f56-8f7e-47ca60e84abb" width="250" alt="Pantalla de victoria" />
 </p>
