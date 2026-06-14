@@ -20,7 +20,7 @@ Este proyecto fue desarrollado como un ejercicio práctico para la asignatura de
 
 ## ⚙️ **Estado del proyecto**
 
-Finalizado. Proyecto educativo completado con toda la lógica matemática del juego y el diseño UI/UX totalmente implementados.
+Finalizado. Proyecto educativo completado con toda la lógica matemática del juego y el diseño UI/UX totalmente implementados
 
 <br><br><br>
 <p align="center">
